@@ -1,0 +1,52 @@
+BANGLADESH INFLATION ANALYSIS — ANALYSIS NOTES
+
+Data Source:
+World Bank — World Development Indicators
+
+Indicator:
+Inflation, consumer prices (annual %)
+
+Data Period:
+2010–2025
+
+Key Findings:
+
+1. The average inflation rate during 2010–2025 was 7.30%.
+
+2. The highest inflation rate was 11.40% in 2011.
+
+3. The lowest inflation rate was 5.51% in 2016.
+
+4. Inflation increased significantly during 2022–2024.
+
+5. Inflation reached 10.47% in 2024.
+
+6. Inflation decreased to 8.77% in 2025.
+
+Economic Interpretation:
+
+Bangladesh's inflation rate fluctuated during 2010–2025. After reaching a high level in 2011, inflation declined during several following years. However, inflation increased significantly during 2022–2024 before declining in 2025.
+
+The data show that consumer price inflation varied considerably across the period.
+
+Important Note:
+
+The data represent annual consumer price inflation measured using the Consumer Price Index (CPI). Inflation rate should not be confused with GDP growth or the overall price level.
+
+Limitations:
+
+- The analysis uses annual data.
+- Monthly changes are not included.
+- Inflation rates alone do not explain all changes in the economy.
+
+Future Analysis:
+
+Future analysis can include:
+
+- Monthly inflation
+- Food and non-food inflation
+- GDP growth
+- Interest rates
+- Exchange rates
+- Money supply
+- Relationship between inflation and economic growth
