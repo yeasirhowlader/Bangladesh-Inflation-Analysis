@@ -48,11 +48,11 @@ This indicator measures the annual percentage change in the cost of a basket of 
 
 ### Bangladesh Inflation Trend (2010–2025)
 
-![Bangladesh Inflation Trend](Inflation_Trend.jpg)
+![Bangladesh Inflation Trend](Inflation_Trend.png)
 
 ### Bangladesh Inflation Rate (2010–2025)
 
-![Bangladesh Inflation Rate](Inflation_Change.jpg)
+![Bangladesh Inflation Rate](Inflation_Change.png)
 
 ## Economic Interpretation
 
